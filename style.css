@@ -86,4 +86,8 @@ a:focus {
     titletext {
         font-size: 24px;
     }
+
+    .card {
+        width: 100%;
+    }
 }
